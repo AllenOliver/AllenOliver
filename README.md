@@ -1,6 +1,6 @@
 ### Hi there <img src="img/om-solid.svg" width="32">
 
-> ###### My name is *Allen* (or *Aren*). I am a game developer. I make stuff sometimes.
+> ###### My name is *Allen* (or *Aren*). I am a game developer. I make stuff sometimes. <img style="margin-left:10px;" src="https://allenoliver.github.io/images/mushroomgrow.gif">
 > Check out my game <img src="img/logo_dark.png" width="80">!
 
 
