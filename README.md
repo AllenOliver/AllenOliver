@@ -1,5 +1,8 @@
 > What's up? I am Allen. I am a programmer and gamedev working on some projects to be announced. I work in most of the major game engines, as well as dabble in custom engine development for both Consoles and PC. I like making cool stuff move on the screen.
-> Also into esoteric stuff, philosophy, weird games, tech, history, and music. Feel free to reach out if you have any questions about my stuff, or if you just wanna say hi.   
+
+> Also into esoteric stuff, philosophy, weird games, tech, history, and music. 
+
+> Feel free to reach out if you have any questions about my stuff, or if you just wanna say hi.   
 
 
 ---
